@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/friendfinder.iml" filepath="$PROJECT_DIR$/.idea/modules/friendfinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1805028650/friendfinder.connectionprotocol.iml" filepath="$PROJECT_DIR$/.idea/modules/1805028650/friendfinder.connectionprotocol.iml" group="friendfinder.connectionprotocol" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1805028650/friendfinder.connectionprotocol_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1805028650/friendfinder.connectionprotocol_main.iml" group="friendfinder.connectionprotocol" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1805028650/friendfinder.connectionprotocol_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1805028650/friendfinder.connectionprotocol_test.iml" group="friendfinder.connectionprotocol" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/friendfinder_main.iml" filepath="$PROJECT_DIR$/.idea/modules/friendfinder_main.iml" group="friendfinder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/friendfinder_test.iml" filepath="$PROJECT_DIR$/.idea/modules/friendfinder_test.iml" group="friendfinder" />
+    </modules>
+  </component>
+</project>
